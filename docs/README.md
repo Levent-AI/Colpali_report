@@ -12,8 +12,8 @@ https://medium.com/the-ai-forum/implement-multimodal-rag-with-colpali-and-vision
 
 > 1. 首先是去 flash_attention 的 git 网站 ：https://github.com/Dao-AILab/flash-attention/releases/，找到你想安装的版本。
 > 2. 检查你当前环境的 CUDA、torch、python 版本，根据显示出来的版本，找到对应的安装包。
-![图片](/Markdown/mynote/GitHub草稿/images/shebei.png) 
-![图片](/Markdown/mynote/GitHub草稿/images/flash.png) 
+![图片](./images/x20.png) 
+![图片](./images/x21.png) 
 比如说，我现在的版本是 CUDA 11.8 、torch 2.4.0 、python 3.11.6,我安装的是 FALSE ,我当时看大多数博主都安装的 FALSE。
 > 3. 下载好后，直接输入 `pip install 下载这个文件的目录地址`，就会自动的安装，这样就成功了。
 
