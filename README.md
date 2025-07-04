@@ -1,5 +1,5 @@
 <div align='center'>
-    <img src="/images/723127c89245.png" alt="alt text" width="100%">
+    <img src="./images/6723127c89245.png" alt="alt text" width="100%">
     <h1>Colpali-Insights</h1>
 </div>
 
