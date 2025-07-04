@@ -35,9 +35,6 @@ print(results)
 
 # 加载 Qwen2-VL 模型的 AutoProcessor 以处理多模态输入
 processor = AutoProcessor.from_pretrained("/huggingface/models/Qwen/Qwen2-VL-7B-Instruct")
-# processor = AutoProcessor.from_pretrained("/huggingface/models/Qwen/Qwen2-VL-7B-Instruct", trust_remote_code=True)
-
-# images = convert_from_path("/Data/input.pdf")
 images = convert_from_path("/Data/PDF/2023tj.pdf")
 
 image_index = results[0]["page_num"] -1
