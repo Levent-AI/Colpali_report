@@ -4,7 +4,7 @@ from PIL import Image
 from colpali_engine.models import ColQwen2, ColQwen2Processor
 
 # 定义模型路径
-model_name = "/hsiam02/huotao/huggingface/models/vidore/colqwen2-v0.1-merged"
+model_name = "/huggingface/models/vidore/colqwen2-v0.1-merged"
 # 加载模型
 model = ColQwen2.from_pretrained(
         model_name,
@@ -22,8 +22,8 @@ images = [
 ]
 '''
 images = [
-    Image.open("/hsiam02/huotao/Data/capture_20221115120127257.bmp"),
-    Image.open("/hsiam02/huotao/Data/capture_20240408202457252.bmp"),
+    Image.open("/Data/capture_20221115120127257.bmp"),
+    Image.open("/Data/capture_20240408202457252.bmp"),  # 这里自己设置两张图片
 ]
 '''
 queries = [
