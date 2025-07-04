@@ -16,10 +16,13 @@
 
 
 ## 📖 内容导航
-- ColPali: Efficient Document Retrieval with Vision Language Models 
-**ColPali ：利用视觉语言模型进行高效文档检索**
+- ColPali: Efficient Document Retrieval with Vision Language Models
 
-文献地址：https://arxiv.org/abs/2407.01449
+
+    **ColPali ：利用视觉语言模型进行高效文档检索**
+
+文献地址：https://arxiv.org/abs/2407.01449 
+
 huggingface地址：https://huggingface.co/vidore/colpali
 
 
