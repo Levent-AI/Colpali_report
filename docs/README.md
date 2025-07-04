@@ -29,4 +29,4 @@ https://medium.com/the-ai-forum/implement-multimodal-rag-with-colpali-and-vision
 ***对于模型 colqwen2-v1.0，这个模型直接下载是没有办法使用的，需要再下载colqwen2-base，将adapter_config.json 里面的路径换成你下载好的路径，这样才能成功的记载模型***
 
 ### Third
-&emsp;&emsp;我会将我做出来的实验的过程以及结果放入一个 PDF 中，供大家参考，最后还希望大家多多支持，如果有帮助到你的地方，那么这就让我很高兴了！🎉🎉🎉
+&emsp;&emsp;上述实验过程供大家参考，最后还希望大家多多支持，如果有帮助到你的地方，那么这就让我很高兴了！🎉🎉🎉
